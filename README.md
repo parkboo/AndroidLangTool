@@ -29,3 +29,7 @@ import: -i <input file>
 link to binary: http://goo.gl/5EaOg
 
 link to eclipse plugin: http://goo.gl/fwEkU
+
+
+#Modified (Aug 4, 2014)
+Can handle <i>&lt;string-array&gt;</i> and <i>formatted="xxx"</i>
