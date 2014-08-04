@@ -33,3 +33,7 @@ link to eclipse plugin: http://goo.gl/fwEkU
 
 #Modified (Aug 4, 2014)
 Can handle <i>&lt;string-array&gt;</i> and <i>formatted="xxx"</i>
+
+#For Korean Users
+strings.xml을 excel 문서(.xls)로 export하고 excel 문서에서 다시 strings.xml을 생성하는 툴입니다.
+original 소스에 string-array 처리 기능을 추가했습니다. 
